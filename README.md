@@ -1,2 +1,2 @@
 # Stock_sentiment_analysis_using_news_headlines
-News from top 25 news channels has been fetched and depending upon the news reports it has been predicted that whether stock will shoot up or will fall down.
+News from top 25 news channels has been fetched and depending upon the news reports it has been predicted that whether stock will shoot up or will fall down.NLP techniques are being used for text preprocessing and word to vector (two methods are used 1.countVectorizer 2.Tfidf ) and then accuracies are calculated.Check the files to know more details about my project. Thanks
